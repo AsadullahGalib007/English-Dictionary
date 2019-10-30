@@ -21,11 +21,11 @@
 
 # How to run the program? :
 Requirements:
-        Install packages such as pip, pyaudio,speech recognition module
-                  1. sudo apt install python-pip
-                  2. sudo pip install SpeechRecognition
-                  3. sudo apt install python-pyaudio python3-pyaudio
-                  4. sudo apt-get install portaudio19-dev python-all-dev python3-all-dev && sudo pip install pyaudio
+Install packages such as pip, pyaudio,speech recognition module
+         1. sudo apt install python-pip
+         2. sudo pip install SpeechRecognition
+         3. sudo apt install python-pyaudio python3-pyaudio
+         4. sudo apt-get install portaudio19-dev python-all-dev python3-all-dev && sudo pip install pyaudio
 Run the program:
         1. python2 Dictionary_App.py
 
