@@ -31,7 +31,7 @@ Run the program:
 1. python2 Dictionary_App.py
 
 
-Future plan :
+# Future plan :
 1. Making the program robust and an eye-catching GUI
 2. Updating the word collection 
 
