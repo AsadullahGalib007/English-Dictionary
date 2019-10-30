@@ -35,4 +35,4 @@ Run the program:
 1. Making the program robust and an eye-catching GUI
 2. Updating the word collection 
 
-NB: If you want to talk about the project, feel free to reach me. My email id is: abrgalib@gmail.com
+NB: If you want to talk about the project, feel free to reach me. My email: abrgalib@gmail.com
